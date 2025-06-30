@@ -109,13 +109,13 @@ These assets are declared in the `pubspec.yaml` and bundled with the application
 
 The project follows a clean, feature-oriented structure to ensure code is organized and easy to maintain.
 
-lib/
-├── data/ # Mock data files
-├── models/ # Data models (Product, CartItem, etc.)
-├── providers/ # State management (CartProvider)
-├── screens/ # All major screens of the app
-├── utils/ # Utility files (colors, routes)
-└── widgets/ # Reusable UI components (CustomButton, CartBadge, etc.)
+lib/ __
+├── data/ # Mock data files __
+├── models/ # Data models (Product, CartItem, etc.) __
+├── providers/ # State management (CartProvider) __
+├── screens/ # All major screens of the app __
+├── utils/ # Utility files (colors, routes) __
+└── widgets/ # Reusable UI components (CustomButton, CartBadge, etc.) __
 
 ### Authentication
 

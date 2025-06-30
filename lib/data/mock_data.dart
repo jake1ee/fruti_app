@@ -43,8 +43,8 @@ final List<Product> mockProducts = [
     rating: 4.5,
     reviewCount: '1k reviews',
     distance: '2.0 KM',
-    imageUrl: 'assets/images/food_1.png', // <-- Changed
-    detailImageUrl: 'assets/images/food_1.jpeg', // <-- Added
+    imageUrl: 'assets/images/food_1.png',
+    detailImageUrl: 'assets/images/food_detalis.jpeg',
     price: 12.90,
     description:
         "Crispy, golden chicken coated in a tangy orange glaze. It's battered and fried, then tossed in a sweet and zesty orange sauce.",
@@ -79,8 +79,8 @@ final List<Product> mockProducts = [
     rating: 5.0,
     reviewCount: '3k reviews',
     distance: '2.8 KM',
-    imageUrl: 'assets/images/food_2.png', // <-- Changed
-    detailImageUrl: 'assets/images/food_2.png', // <-- Added
+    imageUrl: 'assets/images/food_2.png',
+    detailImageUrl: 'assets/images/food_detalis.jpeg',
     price: 18.50,
     description:
         'A juicy beef patty with fresh lettuce, tomatoes, and our secret sauce, all in a toasted brioche bun.',
@@ -114,8 +114,8 @@ final List<Product> mockProducts = [
     rating: 4.0,
     reviewCount: '6k reviews',
     distance: '3.5 KM',
-    imageUrl: 'assets/images/food_3.png', // <-- Changed
-    detailImageUrl: 'assets/images/food_3.png', // <-- Added
+    imageUrl: 'assets/images/food_3.png',
+    detailImageUrl: 'assets/images/food_detalis.jpeg',
     price: 5.00,
     description:
         'Authentic Malaysian-style coffee, brewed to perfection. The perfect pick-me-up for any time of day.',
@@ -150,8 +150,8 @@ final List<Product> mockProducts = [
     rating: 4.0,
     reviewCount: '3k reviews',
     distance: '3.0 KM',
-    imageUrl: 'assets/images/food_4.png', // <-- Changed
-    detailImageUrl: 'assets/images/food_detalis.jpeg', // <-- Added
+    imageUrl: 'assets/images/food_4.png',
+    detailImageUrl: 'assets/images/food_detalis.jpeg',
     price: 15.00,
     description:
         'Tender chicken pieces cooked in a creamy buttermilk sauce with a hint of turmeric and spices.',
@@ -200,8 +200,8 @@ final List<Product> mockProducts = [
     rating: 4.0,
     reviewCount: '1k reviews',
     distance: '3.5 KM',
-    imageUrl: 'assets/images/food_5.png', // <-- Changed
-    detailImageUrl: 'assets/images/food_5.png', // <-- Added
+    imageUrl: 'assets/images/food_5.png',
+    detailImageUrl: 'assets/images/food_detalis.jpeg',
     price: 10.00,
     description:
         'A rich and spicy coconut-based noodle soup, topped with a unique crispy egg nest.',
