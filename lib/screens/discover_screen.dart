@@ -27,7 +27,10 @@ class DiscoverScreen extends StatelessWidget {
             pinned: true,
             flexibleSpace: FlexibleSpaceBar(
               title: Text('Discover Deals',
-                  style: GoogleFonts.poppins(fontWeight: FontWeight.bold)),
+                  style: GoogleFonts.poppins(
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  )),
               background: Image.asset('assets/images/food_detalis.jpeg',
                   fit: BoxFit.cover,
                   color: Colors.black.withOpacity(0.5),
